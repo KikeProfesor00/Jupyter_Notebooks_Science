@@ -1,0 +1,7 @@
+print ("\ 033 [92mSi te gusta esta publicación, dale un voto positivo")    
+print ("\ 033 [96mSi te gusta esta publicación, dale un voto positivo")    
+print ("\ 033 [93mSi te gusta esta publicación, dale un voto positivo")    
+print ("\ 033 [95mSi te gusta esta publicación, dale un voto positivo")    
+print ("\ 033 [1mSi te gusta esta publicación, vota a favor")    
+print ("\ 033 [4mSi te gusta esta publicación, vota a favor")    
+print ("\ 033 [94mSi te gusta esta publicación, dale un voto positivo")

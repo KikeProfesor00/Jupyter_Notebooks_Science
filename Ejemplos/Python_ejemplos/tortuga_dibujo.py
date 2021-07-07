@@ -1,0 +1,18 @@
+from turtle import *
+
+Screen()
+width(25)
+color("red3")
+down()
+forward(300)
+left(90)
+forward(300)
+left(135)
+forward(45)
+color("blue")
+forward(100)
+up()
+forward(100)
+down()
+forward(100)
+mainloop()
