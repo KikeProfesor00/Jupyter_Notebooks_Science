@@ -2,11 +2,14 @@
 
 from sympy import init_session
 init_session(use_latex=True)
+from math import sqrt
 
 print('-'*30)
 print('Biblioteca con las ecuaciones cinemáticas más importantes')
 print('Se proporcionan las ecuaciones de movimiento y de velocidad en una lista')
 
+def modulo(x,y):
+    return(sqrt(x**2 + y**2))
 
 def MRU(x0,v0,t):
     return(x0+v0*t,v0)
