@@ -17,7 +17,7 @@ def MRU_x(x0,v0,t):
 print('MRU_x(x0,v0,t) ==> (Ec pos)')
 
 def MRU_v(x0,v0,t):
-    return(MRU(x0,v0,t)[0])
+    return(MRU(x0,v0,t)[1])
 print('MRU_v(x0,v0,t) ==> (Ec vel)')
 
 def MRUA(x0,v0,a,t):
